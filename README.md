@@ -42,5 +42,4 @@ Our team reviews all contributions promptly and provides feedback to ensure high
 This project is licensed under the Apache License 2.0. The Apache License 2.0 is a permissive free software license written by the Apache Software Foundation (ASF). It allows users to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software under the terms of the license. However, users must include the original copyright and license notice in any copy of the software/source code that they distribute or modify. For more details about the Apache License 2.0, please refer to the LICENSE file included in the repository or visit the [Apache License 2.0 website](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Contact
-[How to reach out to the project maintainer or team for questions or support.
-](https://linktr.ee/ahmad_bi1a1)
+<a href="https://linktr.ee/ahmad_bi1a1" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1545146599474544640/xYvfFLxc_400x400.png" alt="unity" width="40" height="40"/> </a> </p>
